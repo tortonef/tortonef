@@ -47,7 +47,7 @@ Conversational stylist that builds complete outfits from a real catalog within b
 ![Python](https://img.shields.io/badge/Python-1a1f31?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1a1f31?style=flat-square&logo=streamlit&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-1a1f31?style=flat-square&logo=ollama&logoColor=white)
-![100% local](https://img.shields.io/badge/100%25-local-10b981?style=flat-square)
+![100% local](https://img.shields.io/badge/100%25%20local-10b981?style=flat-square)
 
 </td>
 </tr>
@@ -128,7 +128,7 @@ A multi-agent simulator, a step-by-step RAG explorer and a prompt-technique comp
 
 ## ✦ Toolbox
 
-| | |
+| Area | Stack |
 |---|---|
 | **GenAI & LLMs** | ![Claude](https://img.shields.io/badge/Claude-8b5cf6?style=flat-square&logo=anthropic&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-8b5cf6?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-8b5cf6?style=flat-square&logo=ollama&logoColor=white) ![Azure AI](https://img.shields.io/badge/Azure%20AI-8b5cf6?style=flat-square) |
 | **Agents & RAG** | ![MCP](https://img.shields.io/badge/MCP-6d6af6?style=flat-square&logo=modelcontextprotocol&logoColor=white) ![Tool calling](https://img.shields.io/badge/Tool%20calling-6d6af6?style=flat-square) ![pgvector](https://img.shields.io/badge/pgvector-6d6af6?style=flat-square&logo=postgresql&logoColor=white) ![Hybrid search](https://img.shields.io/badge/Hybrid%20search-6d6af6?style=flat-square) ![Human in the loop](https://img.shields.io/badge/Human--in--the--loop-6d6af6?style=flat-square) |
