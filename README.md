@@ -114,9 +114,9 @@ Describe a problem, get a ready-to-train Keras or PyTorch script with every choi
 </td>
 <td width="50%" valign="top">
 
-<sub><code>INTERACTIVE PORTFOLIO</code></sub>
+<sub><code>LIVE GENAI LAB</code></sub>
 ### [Interactive GenAI Lab](https://github.com/tortonef/agentic_ai)
-A multi-agent simulator, a step-by-step RAG explorer and a prompt-technique comparator, all running in the browser. [**Open it →**](https://tortonef.github.io/agentic_ai/)
+Five working tools in the browser: talk to your CSV data, ask your PDFs with citations, build and run a tool-calling agent, size an AI use case. Free with your own Groq key. [**Open it →**](https://tortonef.github.io/agentic_ai/)
 
 ![React](https://img.shields.io/badge/React-1a1f31?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1a1f31?style=flat-square&logo=typescript&logoColor=white)
