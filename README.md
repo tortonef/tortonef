@@ -42,7 +42,7 @@ AI assistant for the Service Desk: it suggests cited resolutions on every new Se
 
 <sub><code>RAG · FASHION RETAIL</code></sub>
 ### [AI Stylist](https://github.com/tortonef/ai-stylist-rag)
-Conversational stylist that builds complete outfits from a real catalog within budget. Every product is cited by SKU; 95% of products shown met every constraint.
+Conversational stylist that builds complete outfits from a real catalog within budget. Every product is cited by SKU; 95% of products shown met every constraint. [**Slides →**](https://tortonef.github.io/ai-stylist-rag/)
 
 ![Python](https://img.shields.io/badge/Python-1a1f31?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1a1f31?style=flat-square&logo=streamlit&logoColor=white)
@@ -92,7 +92,7 @@ ETL with a 20-rule quality gate, z-score and Isolation Forest detectors, and LLM
 
 <sub><code>COMPUTER VISION · E-COMMERCE</code></sub>
 ### [Fashion Catalog Enrichment](https://github.com/tortonef/fashion-catalog-enrichment)
-Product photo to catalog-ready attributes with confidence scores and human review. 81% category accuracy at ~0.1 s per image, no training, no API keys.
+Product photo to catalog-ready attributes with confidence scores and human review. 81% category accuracy at ~0.1 s per image, no training, no API keys. [**Slides →**](https://tortonef.github.io/fashion-catalog-enrichment/)
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-1a1f31?style=flat-square&logo=pytorch&logoColor=white)
 ![FashionCLIP](https://img.shields.io/badge/FashionCLIP-1a1f31?style=flat-square&logo=huggingface&logoColor=white)
