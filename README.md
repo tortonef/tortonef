@@ -30,7 +30,7 @@ I work where **Generative AI meets business processes**. I lead Application Main
 
 <sub><code>AGENTIC AI · IT SERVICE MANAGEMENT</code></sub>
 ### [Jarvis](https://github.com/tortonef/jarvis-servicenow)
-AI assistant for the Service Desk: it suggests cited resolutions on every new ServiceNow incident and runs only approved fixes, with approval that scales with risk.
+AI assistant for the Service Desk: it suggests cited resolutions on every new ServiceNow incident and runs only approved fixes, with approval that scales with risk. [**Slides →**](https://tortonef.github.io/jarvis-servicenow/)
 
 ![Python](https://img.shields.io/badge/Python-1a1f31?style=flat-square&logo=python&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-1a1f31?style=flat-square&logo=servicenow&logoColor=white)
